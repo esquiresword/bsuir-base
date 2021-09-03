@@ -99,3 +99,10 @@ body {
 .bg-custom{
   background: url("download.jpg") cover no-repeat;
 }
+
+@media only screen 
+and (max-width : 320px) {
+  background: none;
+  background-color: #4d4d4d;
+}
+
