@@ -100,3 +100,9 @@ body {
   background: url("download.jpg");
   background-size: 100%;
 } 
+
+@media (max-width: 576px) {
+  .bg-custom{background: url("download.png");
+  background-size: 100%;
+  }
+}
