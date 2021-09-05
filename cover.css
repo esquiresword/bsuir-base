@@ -97,7 +97,7 @@ body {
 
 
 .bg-custom{
-  background: url("/images/download.jpg");
+  background: url("images/download.jpg");
   background-size: 100%;
 } 
 
