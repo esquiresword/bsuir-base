@@ -97,12 +97,12 @@ body {
 
 
 .bg-custom{
-  background: url("download.jpg");
+  background: url("images/download.jpg");
   background-size: 100%;
 } 
 
 @media (max-width: 576px) {
-  .bg-custom{background: url("download.png");
+  .bg-custom{background: url("images/download.png");
   background-size: 100%;
   }
 }
