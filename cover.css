@@ -102,7 +102,7 @@ body {
 } 
 
 @media (max-width: 576px) {
-  .bg-custom{background: url("/images/download.png");
+  .bg-custom{background: url("images/download.png");
   background-size: 100%;
   }
 }
