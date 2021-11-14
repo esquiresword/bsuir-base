@@ -1,3 +1,1 @@
-*.js linguist-language=Bootstrap
-static/* linguist-vendored
-jquery.js linguist-vendored=false
+*.html linguist-language=Javascript
